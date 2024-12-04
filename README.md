@@ -1,4 +1,4 @@
-# 👋 Hola, soy Alejandro Barber Delgado, actualmente estoy terminando la carrera de ingeniería informática mientras trabajo en algunos proyectos personales.
+##  Hola, soy Alejandro Barber Delgado, actualmente estoy terminando la carrera de ingeniería informática mientras trabajo en algunos proyectos personales.
 
 ## 🚀 Proyectos y Objetivos
 Podrás encontrar algunos de mis proyectos destacados en la sección **"Pinned Repositories"**, donde están mis trabajos que considero más importantes.
